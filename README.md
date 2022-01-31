@@ -1,8 +1,6 @@
 ### Hi there 👋
 # Things I like:
-# Running
-# Maps
-# Languages
+### Running Maps Languages
 <!--
 **Zirui59/Zirui59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
