@@ -3,6 +3,7 @@
 - Running 
 - Maps 
 - Languages
+- Plants for creating fresh air indoors
 <!--
 **Zirui59/Zirui59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
